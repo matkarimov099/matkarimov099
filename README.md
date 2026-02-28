@@ -146,7 +146,7 @@ const matkarim: Developer = {
 
 | Period | Role | Company | Stack |
 |--------|------|---------|-------|
-| **2025 — Present** | Software Engineer | **UNICON-SOFT**, Tashkent | Node.js, PostgreSQL, React |
+| **2025 — Present** | Software Engineer | **UNICON-SOFT**, Tashkent | React/Next, Typescript, Zustand, React Query, Axios |
 | **2023 — 2025** | Frontend Developer | **IT-FORLEAD** | React, Next.js, TypeScript, Redux, Zustand, GraphQL |
 | **2021 — 2022** | Frontend Developer | **Urgench State University** | PHP Yii2, Modern Frontend |
 

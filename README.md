@@ -25,14 +25,14 @@
 const matkarim: Developer = {
     name: "Matkarim Matkarimov",
     role: "Software Engineer",
-    company: "UNICON-SOFT",
-    location: "Tashkent, Uzbekistan 🇺🇿",
+    company: "ARYFMA",
+    location: "Urgench, Uzbekistan 🇺🇿",
     hometown: "Urgench, Uzbekistan",
     education: "TUIT (al-Khwarizmi branch) — Computer Engineering",
     experience: "6+ years",
     languages: ["Uzbek 🇺🇿", "English 🇬🇧", "Russian 🇷🇺"],
     currentFocus: [
-        "Full-stack development for government systems",
+        "Full-stack web development with React, Next.js & NestJS",
         "3D web experiences with React Three Fiber",
         "Open-source React templates & tooling",
     ],
@@ -46,7 +46,7 @@ const matkarim: Developer = {
 
 ### 🎯 What I'm Currently Working On
 
-- 🏛️ Building customs authority systems at **UNICON-SOFT**
+- 🏗️ Building full-stack web applications at **ARYFMA**
 - 📦 Maintaining open-source React templates & boilerplates
 - 🤖 Building **TeamFlow** — AI-powered analyzer for IT teams
 - ✍️ Writing technical articles on [DEV.to](https://dev.to/matkarimov099)
@@ -119,6 +119,7 @@ const matkarim: Developer = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
 
@@ -146,7 +147,8 @@ const matkarim: Developer = {
 
 | Period | Role | Company | Stack |
 |--------|------|---------|-------|
-| **2025 — Present** | Software Engineer | **UNICON-SOFT**, Tashkent | React/Next, Typescript, Zustand, React Query, Axios |
+| **2026 — Present** | Software Engineer | **ARYFMA**, Urgench | React, Next.js, NestJS, TypeScript, PostgreSQL |
+| **2025 — 2026** | Software Engineer | **UNICON-SOFT**, Tashkent | React/Next, Typescript, Zustand, React Query, Axios |
 | **2023 — 2025** | Frontend Developer | **IT-FORLEAD** | React, Next.js, TypeScript, Redux, Zustand, GraphQL |
 | **2021 — 2022** | Frontend Developer | **Urgench State University** | PHP Yii2, Modern Frontend |
 

@@ -48,7 +48,7 @@ const matkarim: Developer = {
 
 - 🏗️ Building full-stack web applications at **ARYFMA**
 - 📦 Maintaining open-source React templates & boilerplates
-- 🤖 Building **TeamFlow** — AI-powered analyzer for IT teams
+- 🧠 Deepening my expertise in **Agentic AI**
 - ✍️ Writing technical articles on [DEV.to](https://dev.to/matkarimov099)
 
 </td>
